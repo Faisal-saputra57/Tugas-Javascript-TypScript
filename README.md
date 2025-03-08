@@ -1,2 +1,2 @@
-# tugas-javascript
+# Tugas-Javascript-TypScript
 Tugas-Javascript-TypScript
